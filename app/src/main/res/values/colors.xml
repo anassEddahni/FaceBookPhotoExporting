@@ -3,4 +3,5 @@
     <color name="colorPrimary">@android:color/holo_orange_dark</color>
     <color name="colorPrimaryDark">@android:color/holo_orange_light</color>
     <color name="colorAccent">@android:color/darker_gray</color>
+    <color name="colorWhite">#ffffff</color>
 </resources>
