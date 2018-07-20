@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Photos Exporting</string>
+    <string name="facebook_app_id">510329859400643</string>
+
+    <string name="authentication_activity_name">Authenticate</string>
+    <string name="albums_activity_name">Albums</string>
+    <string name="photos_activity_name">Photos</string>
+
+    <string name="str_1">the request is canceled</string>
+    <string name="str_2">an error occurred please try again later</string>
+    <string name="str_3">Email</string>
+    <string name="str_4">Password</string>
+    <string name="str_5">SignIn</string>
+
+</resources>
